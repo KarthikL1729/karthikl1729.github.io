@@ -1,5 +1,4 @@
 ---
-layout: redirect
 title: CV
 nav: true
 #cv_pdf: AcademicCV2025.pdf # you can also use external links here
