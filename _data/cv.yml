@@ -11,7 +11,8 @@
       institution: Univeristy of Edinburgh, Scotland, UK
       year: 2025 - Present
       description:
-        - 
+        - Working towards improving performance of ML inference on edge devices.
+        - Advised by Prof. Boris Grot and Prof. Luo Mai.
     - title: Bachelor of Technology (B. Tech) and Master of Science, Electronics and Communication Engineering (Dual Degree) 
       institution: International Institute of Information Technology, Hyderabad
       year: 2020 - 2025
@@ -26,7 +27,7 @@
   contents:
     - title: Visiting Research Student
       institution: School of Informatics, University of Edinburgh
-      year: July 2024 - June 2025
+      year: 2024 - 2025
       description:
       - Systematically analysed the impact of interleaving effects and co-located functions on the performance of different categories of serverless functions in a representative real-world serverless setting.
       - Designed and implemented an end-to-end pipeline to explore the architectural implications of large serverless workloads at scale.
@@ -34,20 +35,21 @@
 
     - title: Student Researcher
       institution: CVEST, International Institute of Information Technology, Hyderabad
-      year: January 2022 - June 2025
+      year: 2022 - 2025
       description:
         - Working on research projects involving embedded systems, sensor networks, noise analysis, flexible electronics under the guidance of Prof. Aftab Hussain.
         - Primarily worked on building low latency data collection systems which were used for collecting data towards driving data prediction tasks.
 
     - title: Student Researcher
-      institution: Computer Systems Group, IIIT Hyderabad Sept 2023 - Oct 2023
+      institution: Computer Systems Group, IIIT Hyderabad
+      year: 2023
       description:
         - Worked on deploying ML models on resource constrained embedded platforms for image recognition tasks under the supervision of Prof. Suresh Purini.
         - Helped develop an end-to-end pipeline for real-time image recognition using YOLOv5. Used the ONNX runtime and offloading computations to specialised accelerator cores, by which we achieved sustained performance of 90+ fps with object detection.
 
     - title: Research Collaborator
-      institution: Polytechnic University of Catalonia
-      year: January 2024 - October 2024
+      institution: UPC Barcelona
+      year: 2024
       description:
         - Worked on analysing GPU architectures for Ray-Tracing applications using Vulkan-sim and Lumibench under the guidance of Prof. Antonio Gonzalez.
         - Identified bottlenecks in the ray tracing pipeline that can potentially be solved by specific architectural modifications for SIMD and RT units as well as cache hierarchies.
@@ -57,21 +59,21 @@
   contents:
     - title: TPM Intern
       institution: Microsoft
-      year: May 2024 - July 2024
+      year: 2024
       description:
         - Worked with the Global Capacity Management team to plan, ideate and implement a new feature for the internal tool used for staffing.
         - The feature was aimed at improving the efficiency and ease of use for the requestors by providing real time feedback regarding the request specifications and suggesting similar matches based on availability using a random forest regressor.
 
     - title: System Software Development Intern
       institution: Texas Instruments
-      year: May 2023 - July 2023
+      year: 2023
       description:
         - Ported AM62x SoC to Zephyr RTOS from the proprietary SDK, wrote driver for proprietary RAT (Address Translation) module.
         - Modified drivers for UART and Pincontrol for supporting M4F core on the AM62x. All contributions have been merged and can be found in the upstream repository -- [Zephyr RTOS](https://github.com/zephyrproject-rtos/zephyr).
 
     - title: Open Source Developer
       institution: Free and Open Source Silicon (FOSSi) Foundation, Google Summer of Code
-      year: May 2022 - September 2022
+      year: 2022
       description:
         - Project under the Free and Open Source Silicon Foundation (FOSSi) - [Sootty, the CLI waveform viewer](https://github.com/Ben1152000/sootty).
         - Improved the temporal logic language that Sootty uses by implementing bitwise operators for multi-wire busses, adding a save flag to allow for a reusable query interface.
@@ -82,7 +84,7 @@
   contents:
     - title: Head Teaching Assistant, Digital Systems and Microcontrollers course
       institution: International Institute of Information Technology, Hyderabad
-      year: October 2022 - February 2023; October 2023 - February 2024
+      year: 2022 - 2024
       description:
         - Scheduled tutorial sessions, conducted in-person lab sessions for students who take the Digital Systems and Microcontrollers course.
         - Conducted hardware lab sessions and tutorials for over 300 students, headed a team of teaching assistants.
