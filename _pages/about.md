@@ -8,10 +8,10 @@ profile:
   align: right
   image: me_beach.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-  <p>School of Informatics, University of Edinburgh</p>
-  <p>Informatics Forum, 10 Crichton Street</p>
-  <p>Edinburgh, EH8 9AB, UK</p>
+  #more_info: >
+  #<p>School of Informatics, University of Edinburgh</p>
+  #<p>Informatics Forum, 10 Crichton Street</p>
+  #<p>Edinburgh, EH8 9AB, UK</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -31,4 +31,4 @@ Hi! I'm an incoming PhD student at the [School of Informatics](https://informati
 
 My research interests majorly are in the domain of Computer Architecture, with a specific interest in memory systems and application-specific architectures like efficient systems for ML workloads. Memory systems are a massive bottleneck in modern computing, and I am interested in exploring ways to alleviate this, especially in the context of extremely large scale workloads like ML. With the rapidly increasing number of hyperscale workloads and increasing power requirements of the systems that are used to run them, I am also interested in exploring ways to make these systems more efficient, since even small efficiency gains can lead to significant power savings at scale. 
 
-Some specific areas of interest include effective data prefetching, hardware-software codesign, novel cache architectures and memory management techniques. 
+Specific areas that I'm interested in include effective data prefetching, hardware-software codesign, novel cache architectures and memory management techniques. 

@@ -2,6 +2,15 @@
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
 
+# -----------------------------------------------------------------------------
+# Socials
+# -----------------------------------------------------------------------------
+
+github_username: KarthikL1729 # your GitHub user name
+linkedin_username: l-lakshmanan-b4481123b # your LinkedIn user name
+scholar_userid: 4k5KsP8AAAAJ # your Google Scholar ID
+
+
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
