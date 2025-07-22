@@ -15,16 +15,6 @@ profile:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 Hi! I'm an incoming PhD student at the [School of Informatics](https://informatics.ed.ac.uk/) in the University of Edinburgh as part of the [MLSystems CDT studentship](https://mlsystems.uk/). I will be joining the [EASE lab](https://easelab.inf.ed.ac.uk/) under the guidance of [Prof. Boris Grot](https://homepages.inf.ed.ac.uk/bgrot/) and [Prof. Luo Mai](https://luomai.github.io/). Previously, I did my Undergrad + Masters at the [International Institute of Information Technology, Hyderabad](https://www.iiit.ac.in/), where I worked on embedded systems for a variety of usecases with Prof. Aftab Hussain and Prof. Suresh Purini. 
