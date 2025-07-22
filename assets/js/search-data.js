@@ -14,7 +14,7 @@ ninja.data = [{
           description: "Current CV, last updated July 2025.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/_pages/cv/";
+            window.location.href = "/cv/";
           },
         },{id: "nav-publications",
           title: "Publications",
